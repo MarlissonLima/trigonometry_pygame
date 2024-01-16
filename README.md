@@ -1,2 +1,2 @@
-# Testando funções trigonometricas com pygame
+# Testando funções trigonométricas com pygame
 ## fonte principal: website "invent with python"
